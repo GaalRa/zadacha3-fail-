@@ -1,0 +1,61 @@
+.body {
+background-color: #ffffff;
+height: 33vh;
+width: 98vw;
+position: absolute;
+top: 35vh;
+}
+.section {   
+    display: inline-block;
+    margin: 1vw;
+    border-radius: 2%;
+    height:30vh;
+    width: 30vw;
+}
+.section-1 {
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(217,29,253,1) 0%, rgba(252,176,69,1) 100%);
+}
+.section-2 {
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,48,253,1) 0%, rgba(69,205,252,1) 100%);
+}
+.section-3 {
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,253,220,1) 0%, rgba(69,251,252,1) 100%);
+}
+.card-text {
+    color: #ffffff;
+    font-size: 2vh;
+    font-weight: 700;
+}
+.card-text-top {
+    position:relative;
+    top: 1vh;
+    left: 2vw;
+}
+.card-text-big {position:relative;
+    font-size: 5vh;
+    top: 2vh;
+    left: 2vw;
+}
+.card-text-bottom {
+    position:relative;
+    top: 2vh;
+    left: 2vw;
+}
+.icon {
+    position:relative;
+    left: 26vw;
+    bottom: 18vh;
+}
+
+/*Я здаюсь, хелп
+.circle-top {
+    border: 1px initial solid;
+    position: relative;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    opacity: 0.2;
+    background-color: lightblue;
+    font-size: 0;
+}
+*/
